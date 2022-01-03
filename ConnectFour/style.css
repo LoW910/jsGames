@@ -1,0 +1,22 @@
+.grid{
+    border: 1px dashed darksalmon;
+    display: flex;
+    flex-wrap: wrap;
+    height: 120px;
+    width: 140px;
+}
+
+.grid div {
+    height: 20px;
+    width: 20px;
+}
+
+.playerOne {
+    background-color: red;
+    border-radius: 10px;
+}
+
+.playerTwo {
+    background-color: blue;
+    border-radius: 10px;
+}
